@@ -1,6 +1,6 @@
 # JettonNB
 
-Bot for notifications when token price on TON reaches a specified threshold
+Bot for notifications when jetton price reaches a specified threshold
 
 ## Установка
 
